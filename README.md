@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ranjanadya2198@gmail.com**
 
-- ⚡ Fun fact **Your phone can beat NASA’s moon computers—but loses to bad Wi-Fi. 😆**
+- ⚡ Fun fact **Your phone can beat NASA’s moon computers—but loses to bad Wi-Fi.😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
