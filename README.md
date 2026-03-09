@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/1*IPZto_chtq-97A2J7gKjLA.gif" width="100%" alt="MasterHead" />
+<!-- <img src="https://miro.medium.com/1*IPZto_chtq-97A2J7gKjLA.gif" width="100%" alt="MasterHead" /> -->
 
 <h1 align="center">Hi 👋, I'm Adya Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
