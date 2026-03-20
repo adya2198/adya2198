@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Micron Technology**
 
-- 👯 I’m a CS grad from **NIT Rourkela**
+- 👯 I’m a CSE grad from **NIT Rourkela**
 
 - 📫 How to reach me **ranjanadya2198@gmail.com**
 
