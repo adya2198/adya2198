@@ -15,17 +15,13 @@
 - ⚡ Fun fact **Your phone can beat NASA’s moon computers—but loses to bad Wi-Fi.😆**
 
 <h3 align="left">Connect with me:</h3>
-
 <div style="display: flex; overflow-x: auto; gap: 15px; padding: 10px 0; align-items: center;">
-
   <a href="https://linkedin.com/in/adya-ranjan-sahoo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-
   <a href="https://www.codechef.com/users/adya2198" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
   </a>
-
   <a href="https://leetcode.com/u/adya2198/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
