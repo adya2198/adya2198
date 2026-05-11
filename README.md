@@ -1,6 +1,6 @@
 <!-- <img src="https://miro.medium.com/1*IPZto_chtq-97A2J7gKjLA.gif" width="100%" alt="MasterHead" /> -->
 
-<h1 align="center">Hi 👋, I'm Adya Ranjan</h1>
+<h1 align="center">Hi, I'm Adya Ranjan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Problem+Solver;750%2B+LeetCode+Problems;AI+%7C+ML+%7C+Full+Stack&center=true&width=500&height=50">
 </p>
